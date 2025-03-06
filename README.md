@@ -1,4 +1,4 @@
-# dictionary-app
+
 # Dictionary App
 
 ## Welcome to the Dictionary App!
